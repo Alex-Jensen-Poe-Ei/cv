@@ -1,0 +1,153 @@
+body {
+    margin:0;
+    text-align:center;
+    position: relative;
+    padding-top:100px;
+    background-color: #CDF0EA;
+    font-family: 'Merriweather', serif;
+    font-size:15px;
+}
+
+hr {
+    border-top: 3px dotted grey;
+    border-bottom:none;
+    width:3%;
+    margin: 50px auto;
+    
+}
+h1 {
+    color:#00BFFF;
+    font-size:50px;
+    margin-top: 50px auto 0 auto ;
+    font-family: 'Great Vibes', cursive;
+    
+}
+h2 {
+    color:#00BFFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+}
+h3 {
+    color:#00BFFF;
+    font-family: 'Montserrat', sans-serif;
+}
+.top-container {
+
+    background-color: #CDF0EA;
+   
+
+}
+.top-cloud {
+    position: absolute;
+    top:50px;
+    left:65%;
+    
+    width:80px;
+    height:50px;
+    
+
+}
+.bottom-cloud {
+    width:80px;
+    height:50px;
+    position:absolute;
+    right:70%;
+    
+}
+.codingprocess {
+    width:50%;
+   margin:100px auto 100px auto;
+   text-align:left;
+  
+   
+}
+.coding {
+ border-radius: 50%;
+ width:25%;
+ float:left;
+ margin-right:30px;
+ 
+}
+.coding-des {
+    line-height: 2;
+}
+.chilli {
+    width:50%;
+    margin:100px auto 100px auto; 
+    text-align:left;
+
+}
+.chilling {
+    border-radius:50%;
+    width:25%;
+    float:right;
+    margin-left:30px;
+}
+.chilling-des {
+    line-height:2;
+   
+
+}
+
+
+.myButton {
+	box-shadow: 3px 4px 0px 0px #899599;
+	background:linear-gradient(to bottom, #ededed 5%, #bab1ba 100%);
+	background-color:#ededed;
+	border-radius:15px;
+	border:1px solid #d6bcd6;
+	display:inline-block;
+	cursor:pointer;
+	color:#3a8a9e;
+	font-family:'Montserrat', sans-serif;
+	font-size:17px;
+	padding:7px 25px;
+    margin:20px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #e1e2ed;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #bab1ba 5%, #ededed 100%);
+	background-color:#bab1ba;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.bottom-container {
+    padding-top:30px;
+    padding-bottom:20px;
+    margin:20px auto 0px auto;
+    background-color:#3a8a9e;
+
+}
+.Facebook {
+    text-decoration:none;
+    color:#00BFFF;
+    margin-right:20px;
+}
+.Twitter {
+    text-decoration:none;
+    color:#00BFFF;
+    margin-right:20px;
+}
+.Website {
+    text-decoration:none;
+    color:#00BFFF;
+    margin-right:20px;
+
+}
+.Facebook:hover {
+    color: #CDF0EA;
+}
+.Twitter:hover {
+    color: #CDF0EA;
+}
+.Website:hover {
+    color: #CDF0EA;
+}
+.copyright {
+    color:#EAF6F6;
+    font-size: 0.75rem;
+    padding:20px 0;
+}
